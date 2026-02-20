@@ -125,7 +125,7 @@ This project is open source. See the [LICENSE](LICENSE) file for details.
 ---
 
 <p align="center">
-  Made with ❤️ for India's multilingual communities
+  Made with ❤️ for  multilingual communities
   <br/>
   <a href="https://vaani-web.github.io/vaani">🌐 Try Vaani</a> · 
   <a href="https://github.com/vaani-web/vaani/issues">🐛 Report a Bug</a> · 
